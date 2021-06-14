@@ -42,6 +42,31 @@ ul.anchor-block li a {
     width: 100%;
 }
 
+.contact {
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 30px 20px;
+}
+
+ul.contact {
+    list-style: none;
+    padding: 0;
+}
+
+.about {
+    max-width: 1000px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.about img {
+    width: 500px;
+    height: 400px;
+}
+
 iframe {
     height: 360px;
     width: 640px;
@@ -64,4 +89,16 @@ iframe {
 #music {
     padding: 0 20px;
 }
+.contact {
+    width: 100%;
+}
+
+.about {
+    width: 100%;
+}
+
+.about img {
+    width: 100%;
+}
+
 }
